@@ -1,2 +1,2 @@
 # phoenix
-The discord bot reborn
+The Discord bot reborn. Last one I accidentally published my API keys - it did not end well...
